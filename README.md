@@ -1,11 +1,9 @@
 # ABC Clinic Booking Bot 🤖🏥
 
-This project automates the process of booking a same-day appointment at the ABC Clinic. It consists of a Python web crawler to navigate the clinic's website and a Streamlit web application to easily configure the booking details for the next day.
+This project demonstrates a simple Python webrawler and a streamlit app to automate booking for a specific clinic. While the Streamlit app can be used as-is, the crawler.py is custom codes for a specific clinic and will need to be changed based on your desired clinic's webpage. Since Github Actions (free tier) is highly unreliable for executing the script at a pre-defined time (e.g. 5:58 AM), we use cron-job.org, a free service to trigger the Github action.
 
-The system is designed to be triggered by a high-precision external scheduler to ensure the booking attempt is made at the optimal time.
-The crawler.py only works for my clinic and will have to be changed based on your clinic's website
-But the process can be replicated for any clinic
 ---
+
 
 ## ✨ Features
 
