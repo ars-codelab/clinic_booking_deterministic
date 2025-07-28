@@ -115,4 +115,3 @@ The system is now armed. The external cron job will trigger the booking bot at 5
 
 ---
 
-## 📁 Project Structure
