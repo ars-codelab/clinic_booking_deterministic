@@ -1,0 +1,13 @@
+{
+    "request_date": "2025-07-29",
+    "patient_name": "ほりかわさな",
+    "symptoms": "かぜ",
+    "preferred_time_ranges": [
+        "10:30 - 11:00",
+        "11:30 - 12:00"
+    ],
+    "credentials": {
+        "username": "021042",
+        "password": "0303"
+    }
+}
