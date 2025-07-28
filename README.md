@@ -1,6 +1,7 @@
 # ABC Clinic Booking Bot 🤖🏥
 
-This project demonstrates a simple Python webrawler and a streamlit app to automate booking for a specific clinic. While the Streamlit app can be used as-is, the crawler.py is custom codes for a specific clinic and will need to be changed based on your desired clinic's webpage. Since Github Actions (free tier) is highly unreliable for executing the script at a pre-defined time (e.g. 5:58 AM), we use cron-job.org, a free service to trigger the Github action.
+This project demonstrates a simple Python webrawler (running via github actions) and a streamlit app to automate booking for a specific clinic. 
+While the Streamlit app can be used as-is, the crawler.py is custom coded for a specific clinic and will need to be changed based on your desired clinic's webpage. Since Github Actions (free tier) is highly unreliable for executing the script at a pre-defined time (e.g. 5:58 AM), we also use cron-job.org, a free service to trigger the Github action.
 
 ---
 
